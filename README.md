@@ -33,3 +33,36 @@ Meu objetivo é encontrar meu primeiro emprego como desenvolvedor web e continua
 
 Obrigado por visitar o meu perfil!
 
+# Welcome to My GitHub Profile
+
+Hello! My name is Jellyel Kennedy, a web developer graduating in Internet Systems Technology (TSI) with a strong interest and skills in Python, JavaScript, HTML, and CSS. I'm passionate about programming and eager to find my first job to gain more experience and further refine my skills.
+
+## About Me
+
+- 🎓 Graduating in Internet Systems Technology (2023 - 2025)
+- 💻 Web developer with knowledge in Python, JavaScript, HTML, and CSS
+- 🌐 Interested in creating interactive and responsive websites and web applications
+- 📚 Always seeking learning and improvement
+
+## Projects
+
+Here you'll find some of the projects I've been working on. Feel free to explore them and provide feedback:
+
+- Clash Royale Landing Page (https://github.com/JellyelK/clash_royale_site)
+- About Me Site (https://github.com/JellyelK/sobre_mim_1)
+- Banking Service Simulator (https://github.com/JellyelK/Bank_Service_Simulator_)
+
+## Contact
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/jellyel-kennedy-de-oliveira-santos-954a03251)
+- Email: jellyelkennesy@gmail.com
+
+## Contributions
+
+I'm open to collaborating on projects and contributing to the development community. If you're interested in working together or have any suggestions, please feel free to get in touch with me.
+
+## Goals
+
+My goal is to secure my first job as a web developer and continue to grow in the field of programming. I'm always seeking new challenges and learning opportunities.
+
+Thank you for visiting my profile!
