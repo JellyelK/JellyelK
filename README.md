@@ -14,8 +14,9 @@ Hello! My name is Jellyel Kennedy, a web developer graduating in Internet System
 Here you'll find some of the projects I've been working on. Feel free to explore them and provide feedback:
 
 - Clash Royale Landing Page (https://github.com/JellyelK/clash_royale_site)
-- About Me Site (https://github.com/JellyelK/sobre_mim_1)
+- About Me Site ([https://github.com/JellyelK/sobre_mim_1](https://github.com/JellyelK/About_me_site))
 - Banking Service Simulator (https://github.com/JellyelK/Bank_Service_Simulator_)
+- Python_script_for_automation_using_xlsx_spreadsheets (https://github.com/JellyelK/Python_script_for_automation_using_xlsx_spreadsheets.)
 
 ## Contact
 
@@ -49,8 +50,9 @@ Gosto muito da área de programação e estou ansioso para encontrar meu primeir
 Aqui você encontrará alguns dos projetos em que tenho trabalhado. Sinta-se à vontade para explorá-los e fornecer feedback:
 
 - Clash Royale Landding page (https://github.com/JellyelK/clash_royale_site)
-- Site sobre mim (https://github.com/JellyelK/sobre_mim_1)
+- Site sobre mim ([https://github.com/JellyelK/sobre_mim_1](https://github.com/JellyelK/About_me_site))
 - Banking service simulator (https://github.com/JellyelK/Bank_Service_Simulator_)
+- Script em python de preenchimento automático de formulários com base em planilhas (https://github.com/JellyelK/Python_script_for_automation_using_xlsx_spreadsheets.)
 
 ## Contato
 
